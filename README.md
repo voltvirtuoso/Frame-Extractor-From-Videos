@@ -16,14 +16,14 @@ This Python script extracts frames from videos, processes them based on user-def
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/voltvirtuoso/Frame-Extractor-From-Videos.git
+   cd Frame-Extractor-From-Videos
    ```
 
 2. Create and activate a virtual environment:
    ```bash
    python -m venv .venv
-   source .venv/bin/activate
+   source .venv/bin/activate   # for Linux
    ```
 
 3. Install the required packages:
