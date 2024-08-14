@@ -1,4 +1,4 @@
-# Frame Extractor and Annotator for YOLO Dataset
+# Frame Extractor for Dataset Creation
 
 ## Overview
 
@@ -100,6 +100,3 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to adjust any section or add more details based on your specific needs!
