@@ -22,7 +22,7 @@ This Python script extracts frames from videos, processes them based on user-def
 
 2. Create and activate a virtual environment:
    ```bash
-   python -m venv .venv
+   python3 -m venv .venv
    source .venv/bin/activate   # for Linux
    ```
 
